@@ -1,8 +1,5 @@
-## Hi there 👋
-
-**AlexanderShowell/AlexanderShowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Hi there 👋
 
 - 🔭 I’m currently in ICS3C
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning in GitHub
+- ⚡ Fun fact: no
